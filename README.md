@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @divyadhimaan
 - 👀 I’m interested in Software developing
-- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 you can reach me on linkedIn (https://www.linkedin.com/in/divya-dhiman/)
 
 <!---
