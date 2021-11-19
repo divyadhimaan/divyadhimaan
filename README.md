@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Computers Engineering at Thapar Institute of Engineering and Technology.
 - ✍️ &nbsp; Pursuing Graphic Design and Sketching as hobbies/side hustles.
-- <!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
+<!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
 <!-- - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
