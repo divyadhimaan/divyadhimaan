@@ -28,6 +28,17 @@ You can click the Preview link to take a look at your changes.
 - 🖥 &nbsp; Illustrator | Photoshop
 
 <br/>
+<!-- 
+<h3> 🛠 &nbsp;Competitive Programming Platforms</h3>
+
+- 💻 &nbsp; Leetcode 
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Node.js | Express.js | React
+- 🛢 &nbsp; MySQL | MongoDB | Mongoose
+- ⚙️ &nbsp; Git | Github
+- 🔧 &nbsp; Visual Studio Code | Atom
+- 🖥 &nbsp; Illustrator | Photoshop
+
+<br/> -->
 
 <a href="https://github.com/divyadhimaan">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyadhimaan&theme=buefy&show_icons=true" /> -->
