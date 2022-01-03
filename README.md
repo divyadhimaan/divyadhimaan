@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> Hey there! I'm Divya Dhiman.</h2>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
