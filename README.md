@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; C++ | MATLAB
+- 💻 &nbsp; C++ | Python | MATLAB
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Node.js | Express.js | React
 - 🛢 &nbsp; MySQL | MongoDB | Mongoose
 - ⚙️ &nbsp; Git | Github
