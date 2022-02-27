@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <br/> -->
 
 <a href="https://github.com/divyadhimaan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyadhimaan&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyadhimaan&theme=buefy&show_icons=true" /> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadhimaan&theme=buefy&layout=compact" /> -->
 </a>
 
