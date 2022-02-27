@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 <!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
 <!-- https://divyaportfolio.netlify.app/ -->
 <p align="center">
-<a href="https://divyaportfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://divyaportfolio.netlify.app/-blue?style=flat-square"></a>
-<a href="https://www.linkedin.com/in/divya-dhiman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Divya%20Dhiman-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://divyaportfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://divyaportfolio.netlify.app/-blue?style=flat-square"></a>
+<a href="https://www.linkedin.com/in/divya-dhiman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Divya%20Dhiman-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
-<a href="mailto:ddhiman_be19@thapar.edu"><img alt="Email" src="https://img.shields.io/badge/Email-ddhiman_be19@thapar.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ddhiman_be19@thapar.edu" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-ddhiman_be19@thapar.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
