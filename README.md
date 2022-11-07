@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Python | MATLAB
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Node.js | Express.js | React
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Bootstrap | Node.js | Express.js | React | Flask
 - 🛢 &nbsp; MySQL | MongoDB | Mongoose
 - ⚙️ &nbsp; Git | Github
 - 🔧 &nbsp; Visual Studio Code | Atom
