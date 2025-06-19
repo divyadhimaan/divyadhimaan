@@ -54,4 +54,4 @@ me.say_hi()
 | -------------------------------- | ----------------------------------------------------------------- |
 | **Portfolio Website v1**         | [Here](https://divyaportfolio.netlify.app) |
 | **Portfolio Website v3**         | [here](https://divyadhimanportfolio.vercel.app) |
-| **dBot - DSA assistant **     | [here](https://d-bot-jet.vercel.app)                                  |
+| **dBot - DSA assistant**     | [here](https://d-bot-jet.vercel.app)                                  |
