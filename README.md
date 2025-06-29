@@ -52,6 +52,6 @@ me.say_hi()
 ## Hosted Projects
 | 🚀 **Project Name**              | 🔗 **Live URL**                                                   |
 | -------------------------------- | ----------------------------------------------------------------- |
-| **Portfolio Website v1**         | [Here](https://divyaportfolio.netlify.app) |
-| **Portfolio Website v3**         | [here](https://divyadhimanportfolio.vercel.app) |
-| **dBot - DSA assistant**     | [here](https://d-bot-jet.vercel.app)                                  |
+| **Portfolio Website v1**         | [divyaportfolio](https://divyaportfolio.netlify.app) |
+| **Portfolio Website v3**         | [divyadportfolio](https://divyadportfolio.vercel.app) |
+| **dBot - DSA assistant**         | [d-bot](https://d-bot-jet.vercel.app)                                  |
