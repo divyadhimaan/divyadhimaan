@@ -24,7 +24,12 @@ class SoftwareEngineer:
         self.services = ["Amazon Web Services", "Databricks", "Spinnaker", Terraform"]
 
     def get_accomplishments(self):
-        self.acheived = ["Subject Matter Expert in Hackathon", "AWS Certified Cloud Practitioner", "Won 1st place in a 24-hour hackathon at JPMC", "Delivered a lecture on `YAML Reusability` at DevOps Forum"]
+        self.achieved = [
+            "Subject Matter Expert in Hackathon",
+            "AWS Certified Cloud Practitioner",
+            "1st Place Winner in a 24-hour Hackathon at J.P. Morgan",
+            "Delivered a Lecture on 'YAML Reusability' at the DevOps Forum"
+        ]
         
 
     def say_hi(self):
