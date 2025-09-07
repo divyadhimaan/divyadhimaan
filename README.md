@@ -7,6 +7,7 @@ Software Engineer at JPMorgan Chase
 [![Website](https://img.shields.io/static/v1?label=&message=Portfolio&color=FFFFFF&logo=rocket)](https://divyaportfolio.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=white&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdivyadhimaan&logo=leetcode&logoColor=yellow)](https://leetcode.com/divyadhimaan/)
 
+Portfolio Featured on Once UI portal [Checkout](https://once-ui.com/hub/project/my-portfolio-1654#comments)
 
 
 ### A little more about me...
