@@ -21,8 +21,8 @@ class SoftwareEngineer:
 
     def get_tech_stack(self):
         self.technologies = ["C++", "Python", "Java"]
-        self.development = ["javascript", springboot", "ReactJs", "mongoDB"]
-        self.services = ["Amazon Web Services", "Databricks", "Spinnaker", Terraform"]
+        self.development = ["javascript", springboot", "ReactJs", "mongoDB", "postreSQL"]
+        self.services = ["Amazon Web Services", "Databricks", "Spinnaker"]
 
     def get_accomplishments(self):
         self.achieved = [
