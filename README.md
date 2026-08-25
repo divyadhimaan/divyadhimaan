@@ -58,7 +58,7 @@ me.say_hi()
 
 | 🚀 Project            | 🌐 Live Link                                              |
 |----------------------|----------------------------------------------------------|
-| **Portfolio Website v1**<br><sub>Personal site - v1</sub>         | [divyaportfolio.netlify.app](https://divyaportfolio.netlify.app) |
-| **Portfolio Website v3**<br><sub>Personal site - v3</sub>         | [divyadportfolio.vercel.app](https://divyadportfolio.vercel.app) |
+| **ByteDepth**<br><sub>Deep dives into system design, software patterns, concurrency and algorithms </sub>         | [bytedepth.in](https://bytedepth.in/) |
+| **Portfolio Website**<br><sub>Personal site</sub>         | [divyadportfolio.vercel.app](https://divyadportfolio.vercel.app) |
 | **dBot - DSA Assistant**<br><sub>AI helper for coding interviews</sub>    | [d-bot-jet.vercel.app](https://d-bot-jet.vercel.app) |
 | **Watchem**<br><sub>Smart movie/series tracker</sub>            | [watchem.vercel.app](https://watchem.vercel.app)    |
